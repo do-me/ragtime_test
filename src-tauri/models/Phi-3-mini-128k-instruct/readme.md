@@ -1,0 +1,1 @@
+Model downloaded from https://huggingface.co/AbhishekVenkatachalam06/Phi-3-mini-128k-instruct-Q8_0-GGUF/tree/main
